@@ -1,4 +1,5 @@
-
+import React from "react"
+import ReactDOM from "react-dom/client"
 // Manipulating DOM using React
 const element = React.createElement(
   "h1",
