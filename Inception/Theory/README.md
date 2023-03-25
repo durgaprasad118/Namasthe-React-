@@ -1,4 +1,4 @@
-## Namasthe React By Akshay Saini
+## Namasthe React
 
 # Inception
 ## Q1.) What is Emmet?
