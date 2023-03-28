@@ -1,0 +1,45 @@
+.head >a> img{
+    height:100px;
+}
+.rightNav >ul>li{
+    list-style-type: none;
+}
+
+.head{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 40px;
+    border: 2px solid red;
+}
+ul{
+    display:flex;
+}
+ul>li{
+    padding:10px;
+}
+
+.card>img{
+    height: 200px;
+    width:200px;
+}
+
+.card{
+    margin-top: 30px;
+    width:250px;
+    height:400px;
+    border: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    gap:10px 20px;
+    border:2px solid blue;
+}

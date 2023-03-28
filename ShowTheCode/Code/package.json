@@ -1,20 +1,19 @@
 {
-  "name": "laying-the-foundation",
+  "name": "react",
   "version": "1.0.0",
-  "description": "react",
- 
+  "description": "g",
+  "main": "App.js",
   "scripts": {
-    "start":"parcel index.html",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/durgaprasad118/Namasthe-React-.git"
+    "url": "git+https://github.com/durgaprasad118/Namasthe-React-.git"
   },
   "keywords": [
-    "git"
+    "jd"
   ],
-  "author": "Dp",
+  "author": "DP",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/durgaprasad118/Namasthe-React-/issues"
