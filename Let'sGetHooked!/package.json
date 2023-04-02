@@ -1,0 +1,31 @@
+{
+  "name": "let",
+  "version": "1.0.0",
+  "description": "hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgaprasad118/Namasthe-React-.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "Dp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgaprasad118/Namasthe-React-/issues"
+  },
+  "homepage": "https://github.com/durgaprasad118/Namasthe-React-#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactdom": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
