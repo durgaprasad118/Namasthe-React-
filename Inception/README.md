@@ -1,6 +1,5 @@
-## Namaste React 
-# _Chapter 01 - Inception_
-
+<h1 align="center">Namasthe React🚀</h1>
+<h2 align="center">Inception</h2>
 
 ## Theory -
 - What is `Emmet`?

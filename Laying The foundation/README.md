@@ -1,5 +1,5 @@
-## Namaste React 
-# Chapter 03 - Laying the Foundation
+<h1 align="center">Namasthe React🚀</h1>
+<h2 align="center">Laying the Foundation</h2>
 
 
 ## Topics

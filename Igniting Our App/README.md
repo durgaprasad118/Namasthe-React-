@@ -1,8 +1,10 @@
-## Namaste React  
-# Chapter 02 - Igniting our App
+
+<h1 align="center">Namasthe React🚀</h1>
+<h2 align="center">Igniting our App</h2>
 
 
 ## Theory Assignment:
+
 - What is `NPM`?
 - What is `Parcel/Webpack`? Why `do we need it`?
 - What is `.parcel-cache`
